@@ -27,3 +27,46 @@ All templates are written in Markdown for readability and Git compatibility.
 1. **Clone the Repo:**
    ```bash
    git clone https://github.com/tukangk3tik/document-cheatsheet.git
+   ```
+
+2. **Choose a Template:**
+Browse the folders and copy the desired template into your project or documentation workspace.
+
+3. **Customize It:**
+Fill in the sections based on your team, product, or feature needs.
+
+   
+> ✨ **Tip:** You can use these templates directly in GitHub by creating new files from them using the GitHub web UI.
+
+```
+document-cheatsheet/
+│
+├── product/
+│   └── PRD.md
+│   └── Feature-Brief.md
+│
+├── engineering/
+│   └── Tech-Spec.md
+│   └── ADR.md
+│
+├── qa/
+│   └── Test-Plan.md
+│   └── Bug-Report.md
+│
+├── process/
+│   └── Sprint-Planning.md
+│   └── Retrospective.md
+│   └── Post-Mortem.md
+│
+├── compliance/
+│   └── DPIA.md
+│   └── Risk-Log.md
+│
+└── README.md
+```
+
+
+## 👤 Maintainer
+<img src="https://contrib.rocks/image?repo=tukangk3tik/aksara" alt="Aksara"/>
+
+Felix Serang - [@felix-serang](https://www.linkedin.com/in/felix-serang/) - yanfreddrick@gmail.com
